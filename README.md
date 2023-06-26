@@ -15,6 +15,7 @@ Deactivate
 
 python -m nodezator_plus off
 
+About addon
 
 this addon add new language(Russian), fix user preferences(now if you not create file user preferences is active) and window start
 
